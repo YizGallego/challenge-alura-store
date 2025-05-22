@@ -69,4 +69,5 @@ Aunque la **Tienda 1** tiene el mayor ingreso, sus calificaciones son las más b
 ## 👩‍💻 Autor
 
 Este proyecto fue desarrollado por Yizney Gallego como parte del Challenge de Data Science - Alura Latam.
+🔗 [LinkedIn](www.linkedin.com/in/yizneygallego)  
 
